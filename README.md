@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SanskarWagavkar
-- 👀 I’m very much interested in Data 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ..... 
-- 📫 How to reach me .....
+- 👀 I’m very much interested in Data Science, Machine Learning, Big Data 
+- 🌱 I’m currently learning Data Science in my college
 
 <!---
 SanskarWagavkar/SanskarWagavkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
