@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @SanskarWagavkar
-- 👀 I’m very much interested in Data Science, Machine Learning, Big Data 
+- 👨🏻‍💻 Hi, I’m @SanskarWagavkar
+- 👀 I’m very much interested in Data Science
+- 🦾 Artificial Intelligence/Machine Learning
+- 💻 Big Data Anaysis 
+- 🔭 Data Cleaning
+- 📱 📲 Know how to created Machine Learning Model 
 - 🌱 I’m currently learning Data Science in my college
 
 <!---
